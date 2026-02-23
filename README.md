@@ -1,6 +1,6 @@
 ### Book Service Analytics Project
 
-Overview: Ad hoc analytics on a mobile book service using ClickHouse SQL and Jupyter Notebook. The project explores user behavior, content popularity, platform usage, app metrics, and data quality.
+Overview: Ad hoc analytics on a mobile book service using ClickHouse SQL. The project explores user behavior, content popularity, platform usage, app metrics, and data quality.
 
 ### Tasks / Outputs
 | Task | Description | Output Columns |
